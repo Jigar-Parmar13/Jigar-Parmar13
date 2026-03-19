@@ -114,12 +114,12 @@ philosophy: "Automate everything. Monitor everything. Ship fast."
 
 | Domain | Tools | Level |
 |--------|-------|-------|
-| ☁️ **Cloud** | AWS · GCP · Azure | `████████░░` Advanced |
-| 🐳 **Containers** | Docker · Kubernetes · Helm | `████████░░` Advanced |
-| ⚙️ **CI/CD** | Jenkins · GitHub Actions · ArgoCD | `███████░░░` Proficient |
-| 🏗️ **IaC** | Terraform · Ansible | `███████░░░` Proficient |
-| 📊 **Monitoring** | Grafana · Prometheus · Datadog | `██████░░░░` Proficient |
-| 🗂️ **Management** | Jira · Agile · Scrum | `██████░░░░` Proficient |
+| ☁️ **Cloud** | AWS · GCP · Azure | `█████░░   ` intermediate |
+| 🐳 **Containers** | Docker · Kubernetes · Helm | `█████░░   ` intermediate |
+| ⚙️ **CI/CD** | Jenkins · GitHub Actions · ArgoCD | `█████░░   ` intermediate |
+| 🏗️ **IaC** | Terraform · Ansible | `█████░░   ` intermediate |
+| 📊 **Monitoring** | Grafana · Prometheus · Datadog | `█████░░   ` intermediate |
+| 🗂️ **Management** | Jira · Agile · Scrum | `█████░░   ` intermediate |
 
 </div>
 
