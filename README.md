@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jigar%20Parmar&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Enthusiast&descAlignY=58&descColor=a0cfde&animation=twinkling" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+Pipelines+That+Never+Sleep;☁️+Architecting+Cloud+at+Scale;🐳+Containerizing+Everything+in+Sight;⚙️+Automating+the+Boring+Stuff;📊+Monitoring+All+the+Things+with+Grafana" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+Pipelines+That+Never+Sleep;Architecting+Cloud+at+Scale;Containerizing+Everything+in+Sight;Automating+the+Boring+Stuff;Monitoring+All+the+Things+with+Grafana" alt="Typing SVG" />
 
 <br/>
 
@@ -135,10 +135,10 @@ philosophy: "Automate everything. Monitor everything. Ship fast."
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   "Don't just deploy — orchestrate, observe, and iterate."  ║
+║   "Don't just deploy — orchestrate, observe, and iterate."   ║
 ║                                                              ║
-║   Build Pipelines → Containerize → Scale on Cloud           ║
-║   Monitor Everything → Automate the Rest                    ║
+║   Build Pipelines → Containerize → Scale on Cloud            ║
+║   Monitor Everything → Automate the Rest                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -151,9 +151,9 @@ philosophy: "Automate everything. Monitor everything. Ship fast."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jigar-parmar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-parmar-95817928a/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jigar-Parmar13)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithmejigar@gmail.com)
 
 </div>
 
