@@ -108,11 +108,18 @@ philosophy: "Automate everything. Monitor everything. Ship fast."
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ DevOps Skills Radar
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jigar-Parmar13&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%"/>
+| Domain | Tools | Level |
+|--------|-------|-------|
+| ☁️ **Cloud** | AWS · GCP · Azure | `████████░░` Advanced |
+| 🐳 **Containers** | Docker · Kubernetes · Helm | `████████░░` Advanced |
+| ⚙️ **CI/CD** | Jenkins · GitHub Actions · ArgoCD | `███████░░░` Proficient |
+| 🏗️ **IaC** | Terraform · Ansible | `███████░░░` Proficient |
+| 📊 **Monitoring** | Grafana · Prometheus · Datadog | `██████░░░░` Proficient |
+| 🗂️ **Management** | Jira · Agile · Scrum | `██████░░░░` Proficient |
 
 </div>
 
