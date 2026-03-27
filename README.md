@@ -87,6 +87,7 @@ philosophy: "Automate everything. Monitor everything. Ship fast."
 | Project | Description | Status |
 |--------|-------------|--------|
 | 🗒️ **TeamNotes** | A collaborative notes & team management app | 🚧 In Progress |
+| 🗒️ **student-management** | Student management app | 🚧 In Progress |
 
 </div>
 
